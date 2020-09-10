@@ -1,4 +1,4 @@
-# Common questions :pushpin: 
+# Common questions 
 - **HTML**
 - **BOOTSTRAP**
 
